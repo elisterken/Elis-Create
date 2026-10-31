@@ -1,0 +1,13 @@
+name = "Reroll-Trades"
+filename = "reroll-trades-neoforge-3.2.0-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X1SSxUD9/versions/UWFaVZW2/reroll-trades-neoforge-3.2.0-1.21.jar"
+hash-format = "sha512"
+hash = "60e8b919cee2c482763f7f589e22adec93122054c18c4d75a082655d9c07fd740ce4ffa964e99725a5c9b2a196a758fe7984961fe69177a0963fc82134d2b0d0"
+
+[update]
+[update.modrinth]
+mod-id = "X1SSxUD9"
+version = "UWFaVZW2"
